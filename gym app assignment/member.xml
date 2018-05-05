@@ -1,0 +1,28 @@
+<object-stream>
+  <list>
+    <Member>
+      <memberId>555555</memberId>
+      <memberName>luigtyluigtiuyg</memberName>
+      <memberAddress>lhjkgluhg</memberAddress>
+      <gender>Unspecified</gender>
+      <height>1.5</height>
+      <startingWeight>55.0</startingWeight>
+    </Member>
+    <Member>
+      <memberId>666666</memberId>
+      <memberName>ujhgluigiu</memberName>
+      <memberAddress>luglyiugf</memberAddress>
+      <gender>Unspecified</gender>
+      <height>1.4</height>
+      <startingWeight>44.0</startingWeight>
+    </Member>
+    <Member>
+      <memberId>777777</memberId>
+      <memberName>dfuytf</memberName>
+      <memberAddress>gkjg</memberAddress>
+      <gender>Unspecified</gender>
+      <height>2.2</height>
+      <startingWeight>88.0</startingWeight>
+    </Member>
+  </list>
+</object-stream>
